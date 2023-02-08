@@ -1,1 +1,1 @@
-#_My First Graded ALX Project_
+My First Graded ALX Project
